@@ -1,0 +1,61 @@
+Sample_ID	Seq_ID	Age	Age_Group	Gender	Cohort	Etnic	Sequencer
+NLM028	SRR341704	21	Young adults	Male	T2D	Chinese	Illumina GA
+NLM007	SRR341697	22	Young adults	Male	T2D	Chinese	Illumina GA
+NLM002	SRR341694	23	Young adults	Male	T2D	Chinese	Illumina GA
+NLF011	SRR341623	25	Young adults	Female	T2D	Chinese	Illumina GA
+NLF009	SRR341621	27	Young adults	Female	T2D	Chinese	Illumina GA
+NOM025	SRR341723	28	Young adults	Male	T2D	Chinese	Illumina GA
+NLM022	SRR341700	29	Young adults	Male	T2D	Chinese	Illumina GA
+NOF008	SRR341709	30	Young adults	Female	T2D	Chinese	Illumina GA
+NLM001	SRR341625	32	Young adults	Male	T2D	Chinese	Illumina GA
+NLM031	SRR341706	33	Young adults	Male	T2D	Chinese	Illumina GA
+NLF002	SRR341617	34	Young adults	Female	T2D	Chinese	Illumina GA
+NLF010	SRR341622	35	Young adults	Female	T2D	Chinese	Illumina GA
+NOM016	SRR341719	37	Young adults	Male	T2D	Chinese	Illumina GA
+NLM023	SRR341633	38	Young adults	Male	T2D	Chinese	Illumina GA
+NLF007	SRR341620	39	Young adults	Female	T2D	Chinese	Illumina GA
+NOF010	SRR341710	40	Young adults	Female	T2D	Chinese	Illumina GA
+NOM018	SRR341649	43	Young adults	Male	T2D	Chinese	Illumina GA
+NOF001	SRR341635	45	Young adults	Female	T2D	Chinese	Illumina GA
+NOM028	SRR341725	47	Young adults	Male	T2D	Chinese	Illumina GA
+MBS1150	ERR8609864	48	Young adults	Female	CRE	Chinese	Illumina HiSeq 2500
+NOF002	SRR341636	51	Older adults	Female	T2D	Chinese	Illumina GA
+NOM026	SRR341652	52	Older adults	Male	T2D	Chinese	Illumina GA
+NOM008	SRR341646	54	Older adults	Male	T2D	Chinese	Illumina GA
+MHS258	ERR7671945	55	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBE034	ERR7671921	56	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBE033	ERR7671965	58	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBE039	ERR7671880	59	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MBE035	ERR7671932	60	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MHS246	ERR7671922	61	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBH208	ERR7671953	62	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MHS243	ERR7671883	63	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBE038	ERR7671879	64	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MHS232	ERR7671923	65	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MBS1168	ERR8609882	66	Older adults	Female	CRE	Chinese	Illumina HiSeq 2500
+MHS244	ERR7671956	67	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MBH207	ERR7671980	68	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBS1169	ERR8609883	69	Older adults	Male	CRE	Chinese	Illumina HiSeq 2500
+MBH068	ERR8609798	72	Older adults	Female	CRE	Chinese	Illumina HiSeq 2500
+MBM135	ERR7671884	73	Older adults	Male	SPMP	Chinese	Illumina HiSeq4K
+MHS283	ERR7671895	74	Older adults	Female	SPMP	Chinese	Illumina HiSeq4K
+MBS1228	ERR7564516	77	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1222	ERR7564510	78	Advanced aging	Male	SG90	Chinese	Illumina HiSeq 2500
+MBS1216	ERR7564504	79	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1215	ERR7564503	80	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1577	ERR7570268	81	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
+MBS1578	ERR7570269	82	Advanced aging	Male	SG90	Chinese	Illumina HiSeq X
+MBS1571	ERR7570262	83	Advanced aging	Male	SG90	Chinese	Illumina HiSeq X
+MBS1233	ERR7564521	84	Advanced aging	Male	SG90	Chinese	Illumina HiSeq 2500
+MBS1259	ERR7570118	85	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1247	ERR7570106	86	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1219	ERR7564507	87	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1460	ERR7570151	88	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
+MBS1475	ERR7570166	89	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
+MBS1242	ERR7564530	90	Advanced aging	Female	SG90	Chinese	Illumina HiSeq 2500
+MBS1540	ERR7570231	91	Advanced aging	Male	SG90	Chinese	Illumina HiSeq X
+MBS1528	ERR7570219	92	Advanced aging	Male	SG90	Chinese	Illumina HiSeq X
+MBS1442	ERR7570133	93	Advanced aging	Male	SG90	Chinese	Illumina HiSeq X
+MBS1458	ERR7570149	94	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
+MBS1555	ERR7570246	95	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
+MBS1551	ERR7570242	96	Advanced aging	Female	SG90	Chinese	Illumina HiSeq X
