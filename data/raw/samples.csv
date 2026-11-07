@@ -1,0 +1,61 @@
+Grupo,Sujeto,Edad,Genero,Etnia,Cohorte,Secuenciador,Enlace,
+1,NLM028,21,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341704/SRR341704_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341704/SRR341704_2.fastq.gz
+1,NLM007,22,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341697/SRR341697_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341697/SRR341697_2.fastq.gz
+1,NLM002,23,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341694/SRR341694_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341694/SRR341694_2.fastq.gz
+1,NLF011,25,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341623/SRR341623_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341623/SRR341623_2.fastq.gz
+1,NLF009,27,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341621/SRR341621_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341621/SRR341621_2.fastq.gz
+1,NOM025,28,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341723/SRR341723_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341723/SRR341723_2.fastq.gz
+1,NLM022,29,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341700/SRR341700_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341700/SRR341700_2.fastq.gz
+1,NOF008,30,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341709/SRR341709_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341709/SRR341709_2.fastq.gz
+1,NLM001,32,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341625/SRR341625_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341625/SRR341625_2.fastq.gz
+1,NLM031,33,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341706/SRR341706_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341706/SRR341706_2.fastq.gz
+1,NLF002,34,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341617/SRR341617_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341617/SRR341617_2.fastq.gz
+1,NLF010,35,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341622/SRR341622_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341622/SRR341622_2.fastq.gz
+1,NOM016,37,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341719/SRR341719_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341719/SRR341719_2.fastq.gz
+1,NLM023,38,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341633/SRR341633_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341633/SRR341633_2.fastq.gz
+1,NLF007,39,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341620/SRR341620_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341620/SRR341620_2.fastq.gz
+1,NOF010,40,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341710/SRR341710_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341710/SRR341710_2.fastq.gz
+1,NOM018,43,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341649/SRR341649_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341649/SRR341649_2.fastq.gz
+1,NOF001,45,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341635/SRR341635_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341635/SRR341635_2.fastq.gz
+1,NOM028,47,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341725/SRR341725_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341725/SRR341725_2.fastq.gz
+1,MBS1150,48,Female,Chinese,CRE,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/004/ERR8609864/ERR8609864_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/004/ERR8609864/ERR8609864_2.fastq.gz
+2,NOF002,51,Female,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341636/SRR341636_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341636/SRR341636_2.fastq.gz
+2,NOM026,52,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341652/SRR341652_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341652/SRR341652_2.fastq.gz
+2,NOM008,54,Male,Chinese,T2D,Illumina GA,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341646/SRR341646_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR341/SRR341646/SRR341646_2.fastq.gz
+2,MHS258,55,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671945/ERR7671945_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671945/ERR7671945_2.fastq.gz
+2,MBE034,56,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/001/ERR7671921/ERR7671921_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/001/ERR7671921/ERR7671921_2.fastq.gz
+2,MBE033,58,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671965/ERR7671965_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671965/ERR7671965_2.fastq.gz
+2,MBE039,59,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/000/ERR7671880/ERR7671880_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/000/ERR7671880/ERR7671880_2.fastq.gz
+2,MBE035,60,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/002/ERR7671932/ERR7671932_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/002/ERR7671932/ERR7671932_2.fastq.gz
+2,MHS246,61,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/002/ERR7671922/ERR7671922_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/002/ERR7671922/ERR7671922_2.fastq.gz
+2,MBH208,62,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671953/ERR7671953_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671953/ERR7671953_2.fastq.gz
+2,MHS243,63,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671883/ERR7671883_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671883/ERR7671883_2.fastq.gz
+2,MBE038,64,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/009/ERR7671879/ERR7671879_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/009/ERR7671879/ERR7671879_2.fastq.gz
+2,MHS232,65,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671923/ERR7671923_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/003/ERR7671923/ERR7671923_2.fastq.gz
+2,MBS1168,66,Female,Chinese,CRE,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/002/ERR8609882/ERR8609882_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/002/ERR8609882/ERR8609882_2.fastq.gz
+2,MHS244,67,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/006/ERR7671956/ERR7671956_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/006/ERR7671956/ERR7671956_2.fastq.gz
+2,MBH207,68,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/000/ERR7671980/ERR7671980_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/000/ERR7671980/ERR7671980_2.fastq.gz
+2,MBS1169,69,Male,Chinese,CRE,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/003/ERR8609883/ERR8609883_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/003/ERR8609883/ERR8609883_2.fastq.gz
+2,MBH068,72,Female,Chinese,CRE,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/008/ERR8609798/ERR8609798_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR860/008/ERR8609798/ERR8609798_2.fastq.gz
+2,MBM135,73,Male,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/004/ERR7671884/ERR7671884_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/004/ERR7671884/ERR7671884_2.fastq.gz
+2,MHS283,74,Female,Chinese,SPMP,Illumina HiSeq4K,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671895/ERR7671895_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR767/005/ERR7671895/ERR7671895_2.fastq.gz
+3,MBS1228,77,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/006/ERR7564516/ERR7564516_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/006/ERR7564516/ERR7564516_2.fastq.gz
+3,MBS1222,78,Male,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/000/ERR7564510/ERR7564510_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/000/ERR7564510/ERR7564510_2.fastq.gz
+3,MBS1216,79,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/004/ERR7564504/ERR7564504_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/004/ERR7564504/ERR7564504_2.fastq.gz
+3,MBS1215,80,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/003/ERR7564503/ERR7564503_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/003/ERR7564503/ERR7564503_2.fastq.gz
+3,MBS1577,81,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/008/ERR7570268/ERR7570268_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/008/ERR7570268/ERR7570268_2.fastq.gz
+3,MBS1578,82,Male,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570269/ERR7570269_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570269/ERR7570269_2.fastq.gz
+3,MBS1571,83,Male,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/002/ERR7570262/ERR7570262_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/002/ERR7570262/ERR7570262_2.fastq.gz
+3,MBS1233,84,Male,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/001/ERR7564521/ERR7564521_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/001/ERR7564521/ERR7564521_2.fastq.gz
+3,MBS1259,85,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/008/ERR7570118/ERR7570118_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/008/ERR7570118/ERR7570118_2.fastq.gz
+3,MBS1247,86,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570106/ERR7570106_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570106/ERR7570106_2.fastq.gz
+3,MBS1219,87,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/007/ERR7564507/ERR7564507_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/007/ERR7564507/ERR7564507_2.fastq.gz
+3,MBS1460,88,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/001/ERR7570151/ERR7570151_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/001/ERR7570151/ERR7570151_2.fastq.gz
+3,MBS1475,89,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570166/ERR7570166_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570166/ERR7570166_2.fastq.gz
+3,MBS1242,90,Female,Chinese,SG90,Illumina HiSeq 2500,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/000/ERR7564530/ERR7564530_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR756/000/ERR7564530/ERR7564530_2.fastq.gz
+3,MBS1540,91,Male,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/001/ERR7570231/ERR7570231_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/001/ERR7570231/ERR7570231_2.fastq.gz
+3,MBS1528,92,Male,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570219/ERR7570219_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570219/ERR7570219_2.fastq.gz
+3,MBS1442,93,Male,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/003/ERR7570133/ERR7570133_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/003/ERR7570133/ERR7570133_2.fastq.gz
+3,MBS1458,94,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570149/ERR7570149_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/009/ERR7570149/ERR7570149_2.fastq.gz
+3,MBS1555,95,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570246/ERR7570246_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/006/ERR7570246/ERR7570246_2.fastq.gz
+3,MBS1551,96,Female,Chinese,SG90,Illumina HiSeq X,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/002/ERR7570242/ERR7570242_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR757/002/ERR7570242/ERR7570242_2.fastq.gz
