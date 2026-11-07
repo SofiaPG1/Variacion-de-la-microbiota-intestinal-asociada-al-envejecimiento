@@ -12,18 +12,24 @@ Palabras clave: microbiota intestinal, envejecimiento, envejecimiento saludable,
 El objetivo general de este trabajo consiste en analizar la relación que existe entre la microbiota intestinal y el proceso de envejecimiento, así como analizar diferencias de composición y diversidad de la microbiota intestinal entre tres grupos de edad.
 
 Objetivos específicos:
-•	Identificar las diferencias en la composición taxonómica de la microbiota intestinal entre Young adults, Older adults y Advanced aging. \n
-•	Analizar la diversidad microbiana asociada al envejecimiento \n
+•	Identificar las diferencias en la composición taxonómica de la microbiota intestinal entre Young adults, Older adults y Advanced aging.
+
+•	Analizar la diversidad microbiana asociada al envejecimiento
+
 •	Identificar microorganismos que se encuentren abundantes y relacionados con la edad
 
 ## Estructura del repositorio
 •	data: muestras utilizadas a lo largo del desarrollo del trabajo
+
 •	scripts: scripts utilizados para el procesamiento y análisis de datos
+
 •	resultados: directorio destinado a resultados seleccionados
 
 ## Tecnologías utilizadas
 •	Python
+
 •	R
+
 •	Herramientas bioinformáticas
 
 ## Estado del proyecto
